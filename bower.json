@@ -2,8 +2,7 @@
   "name": "oauth-ng",
   "version": "0.4.0",
   "main": [
-    "dist/oauth-ng.js",
-    "dist/views/templates/default"
+    "dist/oauth-ng.js"
   ],
   "ignore": [
     "app",
